@@ -3,6 +3,7 @@
 A simple AI-powered speech emotion recognition system using deep learning and Streamlit.
 
 ## Demo Video
+[https://youtu.be/KG1ZA7KDNzs](https://youtu.be/KG1ZA7KDNzs)
 [https://youtu.be/G730wfVm400](https://youtu.be/G730wfVm400)
 
 ## 📋 Project Overview
