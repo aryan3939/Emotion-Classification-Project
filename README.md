@@ -2,6 +2,9 @@
 
 A simple AI-powered speech emotion recognition system using deep learning and Streamlit.
 
+## Demo Video
+[https://youtu.be/G730wfVm400](https://youtu.be/G730wfVm400)
+
 ## 📋 Project Overview
 
 This project implements a Convolutional Neural Network (CNN) to classify emotions from speech audio files. The system can identify **8 different emotions**: neutral, calm, happy, sad, angry, fearful, disgust, and surprised.
