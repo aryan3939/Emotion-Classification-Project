@@ -1,0 +1,8 @@
+# Core ML/AI Libraries
+tf-nightly
+numpy
+scikit-learn
+librosa
+soundfile
+streamlit
+joblib
